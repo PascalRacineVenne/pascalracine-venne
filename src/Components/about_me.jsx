@@ -1,4 +1,3 @@
-import React from "react";
 import Headshot from "./headshot";
 import "./about_me.css";
 
@@ -9,8 +8,10 @@ const AboutMe = () => {
       <div className="inner_about_me">
         <div className="about__StyledText">
           <p>
-            I lead one of the product engineering teams on a B2B SaaS platform,
-            collaborating with engineering teams across Montréal and Bangalore.
+            I'm an engineering manager with a developer's background. For the
+            past few years, I've led product engineering teams on a B2B SaaS
+            platform, working closely with Product and with teams across time
+            zones.
           </p>
           <p>
             I came to code after more than twenty years as a professional
@@ -19,9 +20,9 @@ const AboutMe = () => {
             matters more than any solo.
           </p>
           <p>
-            These days I spend my time partnering with Product, helping
-            distributed teams work well together, and finding ways for AI to
-            take the repetitive work off developers' plates.
+            What I care about at work: clear priorities, realistic delivery,
+            teams that trust each other, and finding ways for AI to take the
+            repetitive work off developers' plates.
           </p>
         </div>
         <div>
